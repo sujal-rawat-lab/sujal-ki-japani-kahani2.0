@@ -1,0 +1,1 @@
+console.log("Ancient Story Website Loaded");
